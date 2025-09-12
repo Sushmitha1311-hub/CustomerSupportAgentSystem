@@ -30,15 +30,23 @@ namespace CustomerSupportSystem
         private void Form1_Load(object sender, EventArgs e)
         {
 
-
         }
 
         private void btnLiveCall_Click(object sender, EventArgs e)
         {
+         
+            panelmain.Controls.Clear();
 
-            MessageBox.Show("Live Calls page will open here.");
+            livechat.livechatt liveCallsPage = new livechat.livechatt();
+            liveCallsPage.TopLevel = false;
+            liveCallsPage.FormBorderStyle = FormBorderStyle.None;
+            liveCallsPage.Dock = DockStyle.Fill;
+
+            panelmain.Controls.Add(liveCallsPage);
+            liveCallsPage.Show();
         }
 
+        
         private void btnLivechat_Click(object sender, EventArgs e)
         {
 
