@@ -11,3 +11,17 @@ C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportS
 C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.exe.config
 C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.FormSetting.resources
 C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.FormTickets.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.exe.config
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.exe
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.pdb
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.AssemblyReference.cache
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe.config
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.Form1.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.FormSetting.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.FormTickets.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.Properties.Resources.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.GenerateResource.cache
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.CoreCompileInputs.cache
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.pdb
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.livechat.livechatt.resources
