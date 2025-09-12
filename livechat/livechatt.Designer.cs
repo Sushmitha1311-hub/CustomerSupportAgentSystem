@@ -47,6 +47,10 @@
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.Tickets = new System.Windows.Forms.ListBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtOrder = new System.Windows.Forms.TextBox();
+            this.txtPhno = new System.Windows.Forms.TextBox();
+            this.txtEmail = new System.Windows.Forms.TextBox();
+            this.txtname = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
@@ -54,10 +58,6 @@
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
-            this.txtname = new System.Windows.Forms.TextBox();
-            this.txtEmail = new System.Windows.Forms.TextBox();
-            this.txtPhno = new System.Windows.Forms.TextBox();
-            this.txtOrder = new System.Windows.Forms.TextBox();
             this.tableLayoutPanel1.SuspendLayout();
             this.panel6.SuspendLayout();
             this.panel5.SuspendLayout();
@@ -305,6 +305,34 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Customer Info";
             // 
+            // txtOrder
+            // 
+            this.txtOrder.Location = new System.Drawing.Point(156, 175);
+            this.txtOrder.Name = "txtOrder";
+            this.txtOrder.Size = new System.Drawing.Size(100, 22);
+            this.txtOrder.TabIndex = 9;
+            // 
+            // txtPhno
+            // 
+            this.txtPhno.Location = new System.Drawing.Point(156, 132);
+            this.txtPhno.Name = "txtPhno";
+            this.txtPhno.Size = new System.Drawing.Size(100, 22);
+            this.txtPhno.TabIndex = 8;
+            // 
+            // txtEmail
+            // 
+            this.txtEmail.Location = new System.Drawing.Point(156, 89);
+            this.txtEmail.Name = "txtEmail";
+            this.txtEmail.Size = new System.Drawing.Size(100, 22);
+            this.txtEmail.TabIndex = 7;
+            // 
+            // txtname
+            // 
+            this.txtname.Location = new System.Drawing.Point(156, 37);
+            this.txtname.Name = "txtname";
+            this.txtname.Size = new System.Drawing.Size(100, 22);
+            this.txtname.TabIndex = 6;
+            // 
             // label12
             // 
             this.label12.AutoSize = true;
@@ -343,7 +371,7 @@
             // 
             // button4
             // 
-            this.button4.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.button4.BackColor = System.Drawing.Color.OrangeRed;
             this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button4.Location = new System.Drawing.Point(291, 296);
             this.button4.Name = "button4";
@@ -354,7 +382,7 @@
             // 
             // button3
             // 
-            this.button3.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.button3.BackColor = System.Drawing.Color.Gold;
             this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button3.Location = new System.Drawing.Point(291, 396);
             this.button3.Name = "button3";
@@ -373,34 +401,6 @@
             this.button2.TabIndex = 2;
             this.button2.Text = "  End";
             this.button2.UseVisualStyleBackColor = false;
-            // 
-            // txtname
-            // 
-            this.txtname.Location = new System.Drawing.Point(156, 37);
-            this.txtname.Name = "txtname";
-            this.txtname.Size = new System.Drawing.Size(100, 22);
-            this.txtname.TabIndex = 6;
-            // 
-            // txtEmail
-            // 
-            this.txtEmail.Location = new System.Drawing.Point(156, 89);
-            this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(100, 22);
-            this.txtEmail.TabIndex = 7;
-            // 
-            // txtPhno
-            // 
-            this.txtPhno.Location = new System.Drawing.Point(156, 132);
-            this.txtPhno.Name = "txtPhno";
-            this.txtPhno.Size = new System.Drawing.Size(100, 22);
-            this.txtPhno.TabIndex = 8;
-            // 
-            // txtOrder
-            // 
-            this.txtOrder.Location = new System.Drawing.Point(156, 175);
-            this.txtOrder.Name = "txtOrder";
-            this.txtOrder.Size = new System.Drawing.Size(100, 22);
-            this.txtOrder.TabIndex = 9;
             // 
             // livechatt
             // 
