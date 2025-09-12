@@ -17,7 +17,7 @@ namespace CustomerSupportSystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new livechatt());
+            Application.Run(new Form1());
         }
     }
 }

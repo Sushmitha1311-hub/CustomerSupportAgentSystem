@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.panel1 = new System.Windows.Forms.Panel();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.panel6 = new System.Windows.Forms.Panel();
             this.label7 = new System.Windows.Forms.Label();
@@ -68,16 +67,6 @@
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // panel1
-            // 
-            this.panel1.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel1.ForeColor = System.Drawing.SystemColors.Info;
-            this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(229, 733);
-            this.panel1.TabIndex = 0;
-            // 
             // tableLayoutPanel1
             // 
             this.tableLayoutPanel1.ColumnCount = 4;
@@ -94,7 +83,7 @@
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 1;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(1025, 141);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1124, 141);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // panel6
@@ -103,10 +92,10 @@
             this.panel6.Controls.Add(this.label7);
             this.panel6.Controls.Add(this.label8);
             this.panel6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel6.Location = new System.Drawing.Point(768, 0);
+            this.panel6.Location = new System.Drawing.Point(843, 0);
             this.panel6.Margin = new System.Windows.Forms.Padding(0);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(257, 141);
+            this.panel6.Size = new System.Drawing.Size(281, 141);
             this.panel6.TabIndex = 3;
             // 
             // label7
@@ -139,10 +128,10 @@
             this.panel5.Controls.Add(this.label5);
             this.panel5.Controls.Add(this.label6);
             this.panel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel5.Location = new System.Drawing.Point(512, 0);
+            this.panel5.Location = new System.Drawing.Point(562, 0);
             this.panel5.Margin = new System.Windows.Forms.Padding(0);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(256, 141);
+            this.panel5.Size = new System.Drawing.Size(281, 141);
             this.panel5.TabIndex = 2;
             // 
             // label5
@@ -175,10 +164,10 @@
             this.panel4.Controls.Add(this.label3);
             this.panel4.Controls.Add(this.label4);
             this.panel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel4.Location = new System.Drawing.Point(256, 0);
+            this.panel4.Location = new System.Drawing.Point(281, 0);
             this.panel4.Margin = new System.Windows.Forms.Padding(0);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(256, 141);
+            this.panel4.Size = new System.Drawing.Size(281, 141);
             this.panel4.TabIndex = 1;
             // 
             // label3
@@ -214,7 +203,7 @@
             this.panel3.Location = new System.Drawing.Point(0, 0);
             this.panel3.Margin = new System.Windows.Forms.Padding(0);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(256, 141);
+            this.panel3.Size = new System.Drawing.Size(281, 141);
             this.panel3.TabIndex = 0;
             // 
             // label2
@@ -264,17 +253,17 @@
             this.panel2.Controls.Add(this.button1);
             this.panel2.Controls.Add(this.tableLayoutPanel1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(229, 0);
+            this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1025, 733);
+            this.panel2.Size = new System.Drawing.Size(1124, 855);
             this.panel2.TabIndex = 1;
             // 
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.Tickets);
-            this.groupBox2.Location = new System.Drawing.Point(593, 529);
+            this.groupBox2.Location = new System.Drawing.Point(593, 431);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(307, 147);
+            this.groupBox2.Size = new System.Drawing.Size(307, 229);
             this.groupBox2.TabIndex = 5;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Past Tickets";
@@ -285,7 +274,7 @@
             this.Tickets.ItemHeight = 16;
             this.Tickets.Location = new System.Drawing.Point(6, 42);
             this.Tickets.Name = "Tickets";
-            this.Tickets.Size = new System.Drawing.Size(120, 84);
+            this.Tickets.Size = new System.Drawing.Size(169, 100);
             this.Tickets.TabIndex = 0;
             // 
             // groupBox1
@@ -298,7 +287,7 @@
             this.groupBox1.Controls.Add(this.label11);
             this.groupBox1.Controls.Add(this.label10);
             this.groupBox1.Controls.Add(this.label9);
-            this.groupBox1.Location = new System.Drawing.Point(593, 233);
+            this.groupBox1.Location = new System.Drawing.Point(593, 164);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(307, 232);
             this.groupBox1.TabIndex = 0;
@@ -406,9 +395,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1254, 733);
+            this.ClientSize = new System.Drawing.Size(1124, 855);
             this.Controls.Add(this.panel2);
-            this.Controls.Add(this.panel1);
             this.Name = "livechatt";
             this.Text = "Form1";
             this.tableLayoutPanel1.ResumeLayout(false);
@@ -429,8 +417,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.Label label7;

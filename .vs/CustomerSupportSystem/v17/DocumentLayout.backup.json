@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|c:\\users\\shashank30\\onedrive\\desktop\\codes\\new customer\\customersupportagentsystem\\livechat\\livechatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|c:\\users\\shashank30\\onedrive\\desktop\\codes\\newcustomer\\customersupportagentsystem\\livechat\\livechatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:livechat\\livechatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\livechat\\livechatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:livechat\\livechatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\formtickets.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:formtickets.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\livechat\\livechatt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:livechat\\livechatt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\formtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:formtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\formtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:formtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\formsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\formsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:formsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\formtickets.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\livechat\\livechatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:livechat\\livechatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\formtickets.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:formtickets.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\livechat\\livechatt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:livechat\\livechatt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\formtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:formtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\formtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:formtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\formtickets.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:formtickets.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -76,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "livechatt.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\livechat\\livechatt.cs",
+              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\livechat\\livechatt.cs",
               "RelativeDocumentMoniker": "livechat\\livechatt.cs",
-              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\livechat\\livechatt.cs [Design]",
+              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\livechat\\livechatt.cs [Design]",
               "RelativeToolTip": "livechat\\livechatt.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-12T05:02:49.262Z",
@@ -86,69 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "livechatt.cs",
-              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\livechat\\livechatt.cs",
-              "RelativeDocumentMoniker": "livechat\\livechatt.cs",
-              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\livechat\\livechatt.cs",
-              "RelativeToolTip": "livechat\\livechatt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T05:16:09.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T05:10:52.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormTickets.resx",
-              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\FormTickets.resx",
-              "RelativeDocumentMoniker": "FormTickets.resx",
-              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\FormTickets.resx",
-              "RelativeToolTip": "FormTickets.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-09-12T05:17:45.237Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "livechatt.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\livechat\\livechatt.Designer.cs",
-              "RelativeDocumentMoniker": "livechat\\livechatt.Designer.cs",
-              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\livechat\\livechatt.Designer.cs",
-              "RelativeToolTip": "livechat\\livechatt.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T05:03:49.118Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Form1.resx",
-              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\Form1.resx",
-              "RelativeDocumentMoniker": "Form1.resx",
-              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\Form1.resx",
-              "RelativeToolTip": "Form1.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-09-10T09:15:38.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "FormTickets.cs",
-              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\FormTickets.cs",
+              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\FormTickets.cs",
               "RelativeDocumentMoniker": "FormTickets.cs",
-              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\FormTickets.cs",
+              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\FormTickets.cs",
               "RelativeToolTip": "FormTickets.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,68 +98,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:40:20.452Z"
+              "WhenOpened": "2025-09-09T09:27:32.751Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "livechatt.cs",
+              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\livechat\\livechatt.cs",
+              "RelativeDocumentMoniker": "livechat\\livechatt.cs",
+              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\livechat\\livechatt.cs",
+              "RelativeToolTip": "livechat\\livechatt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T09:27:32.751Z"
+              "WhenOpened": "2025-09-12T05:16:09.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:54:01.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSetting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\FormSetting.cs",
+              "RelativeDocumentMoniker": "FormSetting.cs",
+              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\FormSetting.cs [Design]",
+              "RelativeToolTip": "FormSetting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:55:45.087Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:10:52.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\Form1.resx*",
+              "RelativeToolTip": "Form1.resx*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-10T09:15:38.376Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "livechatt.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\livechat\\livechatt.Designer.cs",
+              "RelativeDocumentMoniker": "livechat\\livechatt.Designer.cs",
+              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\livechat\\livechatt.Designer.cs",
+              "RelativeToolTip": "livechat\\livechatt.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T05:03:49.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormTickets.resx",
+              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\FormTickets.resx",
+              "RelativeDocumentMoniker": "FormTickets.resx",
+              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\FormTickets.resx",
+              "RelativeToolTip": "FormTickets.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-12T05:17:45.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\Form1.Designer.cs*",
+              "RelativeToolTip": "Form1.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:40:20.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "FormTickets.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\FormTickets.cs",
+              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\FormTickets.cs",
               "RelativeDocumentMoniker": "FormTickets.cs",
               "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\FormTickets.cs [Design]",
-              "RelativeToolTip": "FormTickets.cs [Design]",
+              "RelativeToolTip": "..\\..\\new customer\\CustomerSupportAgentSystem\\FormTickets.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T09:46:42.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T05:54:01.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormSetting.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\FormSetting.cs",
-              "RelativeDocumentMoniker": "FormSetting.cs",
-              "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportSystem\\FormSetting.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\HP 745 G6\\source\\repos\\CustomerSupportSystem\\FormSetting.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T06:55:45.087Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "FormTickets.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\FormTickets.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\FormTickets.Designer.cs",
               "RelativeDocumentMoniker": "FormTickets.Designer.cs",
-              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\new customer\\CustomerSupportAgentSystem\\FormTickets.Designer.cs",
+              "ToolTip": "C:\\Users\\Shashank30\\OneDrive\\Desktop\\Codes\\newcustomer\\CustomerSupportAgentSystem\\FormTickets.Designer.cs",
               "RelativeToolTip": "FormTickets.Designer.cs",
               "ViewState": "AgIAAKoAAAAAAAAAAAAswLcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
