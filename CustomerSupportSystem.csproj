@@ -66,6 +66,13 @@
     <Compile Include="FormTickets.Designer.cs">
       <DependentUpon>FormTickets.cs</DependentUpon>
     </Compile>
+    <Compile Include="Manoj\ChatInfo.cs" />
+    <Compile Include="Manoj\Chat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manoj\Chat.Designer.cs">
+      <DependentUpon>Chat.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
