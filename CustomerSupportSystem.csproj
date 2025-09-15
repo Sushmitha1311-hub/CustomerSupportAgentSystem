@@ -67,6 +67,7 @@
       <DependentUpon>FormTickets.cs</DependentUpon>
     </Compile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Compile Include="Manoj\ChatInfo.cs" />
     <Compile Include="Manoj\Chat.cs">
       <SubType>Form</SubType>
@@ -74,15 +75,27 @@
     <Compile Include="Manoj\Chat.Designer.cs">
       <DependentUpon>Chat.cs</DependentUpon>
 =======
+=======
+>>>>>>> d927401c88d658dc872dfab69ac8f74731f102c5
     <Compile Include="livechat\livechatt.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="livechat\livechatt.Designer.cs">
       <DependentUpon>livechatt.cs</DependentUpon>
+<<<<<<< HEAD
 >>>>>>> 19f6c6135032674d41e171dee0d9079f4f574e9a
+=======
+>>>>>>> d927401c88d658dc872dfab69ac8f74731f102c5
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tarun\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tarun\.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -113,7 +126,11 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Tarun\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -129,6 +146,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="gitpush\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer_1688401.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

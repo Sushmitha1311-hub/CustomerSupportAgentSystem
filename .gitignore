@@ -380,6 +380,13 @@ Release/
 # Logs
 *.log
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> ff7b3f03eb123e9bed195f505da0a6508aff4c74
 =======
 >>>>>>> ff7b3f03eb123e9bed195f505da0a6508aff4c74
+=======
+
+*.exe
+* .pdb
+
+>>>>>>> d927401c88d658dc872dfab69ac8f74731f102c5
