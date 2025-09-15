@@ -49,6 +49,11 @@ namespace CustomerSupportSystem
         {
 
         }
+
+        private void FormTickets_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

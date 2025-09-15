@@ -66,12 +66,20 @@
     <Compile Include="FormTickets.Designer.cs">
       <DependentUpon>FormTickets.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Manoj\ChatInfo.cs" />
     <Compile Include="Manoj\Chat.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Manoj\Chat.Designer.cs">
       <DependentUpon>Chat.cs</DependentUpon>
+=======
+    <Compile Include="livechat\livechatt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="livechat\livechatt.Designer.cs">
+      <DependentUpon>livechatt.cs</DependentUpon>
+>>>>>>> 19f6c6135032674d41e171dee0d9079f4f574e9a
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -83,6 +91,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormTickets.resx">
       <DependentUpon>FormTickets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="livechat\livechatt.resx">
+      <DependentUpon>livechatt.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
