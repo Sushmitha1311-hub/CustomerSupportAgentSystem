@@ -11,3 +11,7 @@ Release/
 
 # Logs
 *.log
+
+*.exe
+* .pdb
+
