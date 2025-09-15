@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CustomerSupportSystem.livechat;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -34,16 +35,18 @@ namespace CustomerSupportSystem
 
         private void btnLiveCall_Click(object sender, EventArgs e)
         {
-         
-            panelmain.Controls.Clear();
+            livechatt Chat = new livechatt();
+            Chat.Show();
+            //panelmain.Controls.Clear();
 
-            livechat.livechatt liveCallsPage = new livechat.livechatt();
-            liveCallsPage.TopLevel = false;
-            liveCallsPage.FormBorderStyle = FormBorderStyle.None;
-            liveCallsPage.Dock = DockStyle.Fill;
+            //livechat.livechatt liveCallsPage = new livechat.livechatt();
+            //liveCallsPage.TopLevel = false;
+            //liveCallsPage.FormBorderStyle = FormBorderStyle.None;
+            //liveCallsPage.Dock = DockStyle.Fill;
 
-            panelmain.Controls.Add(liveCallsPage);
-            liveCallsPage.Show();
+            //panelmain.Controls.Add(liveCallsPage);
+            //liveCallsPage.Show();
+
         }
 
         
