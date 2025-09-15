@@ -10,7 +10,6 @@
         private System.Windows.Forms.Button btnAttach;
         private System.Windows.Forms.ListBox listBoxHistory;
         private System.Windows.Forms.Panel panelCustomerInfo;
-        private System.Windows.Forms.PictureBox pictureBoxCustomer;
         private System.Windows.Forms.Label labelCustomerName;
         private System.Windows.Forms.Label labelCustomerEmail;
         private System.Windows.Forms.Label labelCustomerPhone;
@@ -24,7 +23,6 @@
 
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Chat));
             this.listBoxChats = new System.Windows.Forms.ListBox();
             this.flowChat = new System.Windows.Forms.FlowLayoutPanel();
             this.txtMessage = new System.Windows.Forms.TextBox();
@@ -32,13 +30,15 @@
             this.btnAttach = new System.Windows.Forms.Button();
             this.listBoxHistory = new System.Windows.Forms.ListBox();
             this.panelCustomerInfo = new System.Windows.Forms.Panel();
-            this.pictureBoxCustomer = new System.Windows.Forms.PictureBox();
             this.labelCustomerName = new System.Windows.Forms.Label();
             this.labelCustomerEmail = new System.Windows.Forms.Label();
             this.labelCustomerPhone = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBoxCustomer = new System.Windows.Forms.PictureBox();
             this.panelCustomerInfo.SuspendLayout();
+            this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCustomer)).BeginInit();
             this.SuspendLayout();
             // 
@@ -48,7 +48,7 @@
             this.listBoxChats.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
             this.listBoxChats.FormattingEnabled = true;
             this.listBoxChats.ItemHeight = 20;
-            this.listBoxChats.Location = new System.Drawing.Point(12, 42);
+            this.listBoxChats.Location = new System.Drawing.Point(8, 46);
             this.listBoxChats.Name = "listBoxChats";
             this.listBoxChats.Size = new System.Drawing.Size(150, 304);
             this.listBoxChats.TabIndex = 0;
@@ -76,7 +76,7 @@
             // 
             // btnSend
             // 
-            this.btnSend.Location = new System.Drawing.Point(469, 360);
+            this.btnSend.Location = new System.Drawing.Point(465, 359);
             this.btnSend.Name = "btnSend";
             this.btnSend.Size = new System.Drawing.Size(90, 40);
             this.btnSend.TabIndex = 3;
@@ -116,16 +116,6 @@
             this.panelCustomerInfo.Size = new System.Drawing.Size(206, 80);
             this.panelCustomerInfo.TabIndex = 6;
             // 
-            // pictureBoxCustomer
-            // 
-            this.pictureBoxCustomer.Image = null; // or assign a default image from resources explicitly
-            this.pictureBoxCustomer.Location = new System.Drawing.Point(3, 3);
-            this.pictureBoxCustomer.Name = "pictureBoxCustomer";
-            this.pictureBoxCustomer.Size = new System.Drawing.Size(50, 50);
-            this.pictureBoxCustomer.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxCustomer.TabIndex = 0;
-            this.pictureBoxCustomer.TabStop = false;
-            // 
             // labelCustomerName
             // 
             this.labelCustomerName.AutoSize = true;
@@ -158,7 +148,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(327, 17);
+            this.label1.Location = new System.Drawing.Point(326, 11);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(66, 29);
             this.label1.TabIndex = 7;
@@ -174,23 +164,42 @@
             this.label2.TabIndex = 9;
             this.label2.Text = "Customer Info";
             // 
-            // Form1
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.listBoxChats);
+            this.panel1.Controls.Add(this.label1);
+            this.panel1.Controls.Add(this.btnSend);
+            this.panel1.Location = new System.Drawing.Point(4, 2);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(785, 459);
+            this.panel1.TabIndex = 10;
+            // 
+            // pictureBoxCustomer
+            // 
+            this.pictureBoxCustomer.Location = new System.Drawing.Point(3, 3);
+            this.pictureBoxCustomer.Name = "pictureBoxCustomer";
+            this.pictureBoxCustomer.Size = new System.Drawing.Size(50, 50);
+            this.pictureBoxCustomer.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxCustomer.TabIndex = 0;
+            this.pictureBoxCustomer.TabStop = false;
+            // 
+            // Chat
             // 
             this.ClientSize = new System.Drawing.Size(791, 458);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.listBoxHistory);
             this.Controls.Add(this.panelCustomerInfo);
             this.Controls.Add(this.btnAttach);
-            this.Controls.Add(this.btnSend);
             this.Controls.Add(this.flowChat);
             this.Controls.Add(this.txtMessage);
-            this.Controls.Add(this.listBoxChats);
-            this.Name = "Form1";
+            this.Controls.Add(this.panel1);
+            this.Name = "Chat";
             this.Text = "Chat Dashboard";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panelCustomerInfo.ResumeLayout(false);
             this.panelCustomerInfo.PerformLayout();
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCustomer)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -199,5 +208,7 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.PictureBox pictureBoxCustomer;
     }
 }

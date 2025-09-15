@@ -24,3 +24,4 @@ C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\Cust
 C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.CoreCompileInputs.cache
 C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe
 C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.pdb
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\ChatDashboard.Chat.resources

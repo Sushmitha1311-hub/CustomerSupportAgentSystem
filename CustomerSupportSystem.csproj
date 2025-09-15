@@ -84,6 +84,9 @@
     <EmbeddedResource Include="FormTickets.resx">
       <DependentUpon>FormTickets.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Manoj\Chat.resx">
+      <DependentUpon>Chat.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
