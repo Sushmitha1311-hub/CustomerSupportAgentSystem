@@ -1,9 +1,9 @@
-﻿using ChatDashboard;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CustomerSupportSystem.livechat;
 
 namespace CustomerSupportSystem
 {
@@ -17,8 +17,8 @@ namespace CustomerSupportSystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            /// Application.Run(new Form1());
-            Application.Run(new Chat());
+            //Application.Run(new Form1());
+            Application.Run(new LoginForm());
         }
     }
 }
