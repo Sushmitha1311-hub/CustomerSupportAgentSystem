@@ -1,0 +1,26 @@
+C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\bin\Debug\CustomerSupportSystem.exe.config
+C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\bin\Debug\CustomerSupportSystem.exe
+C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\bin\Debug\CustomerSupportSystem.pdb
+C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.csproj.AssemblyReference.cache
+C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.Form1.resources
+C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.Properties.Resources.resources
+C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.csproj.GenerateResource.cache
+C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.exe
+C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.pdb
+C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.exe.config
+C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.FormSetting.resources
+C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.FormTickets.resources
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.exe.config
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.exe
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.pdb
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.AssemblyReference.cache
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe.config
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.Form1.resources
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.FormSetting.resources
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.FormTickets.resources
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.Properties.Resources.resources
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.GenerateResource.cache
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.CoreCompileInputs.cache
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe
+C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.pdb
