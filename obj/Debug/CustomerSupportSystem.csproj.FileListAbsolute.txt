@@ -26,8 +26,11 @@ C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\Cust
 C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe
 C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.pdb
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\ChatDashboard.Chat.resources
 =======
+=======
+>>>>>>> ff7b3f03eb123e9bed195f505da0a6508aff4c74
 =======
 C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.exe.config
 C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.exe
@@ -58,4 +61,7 @@ C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSyste
 C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe
 C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.pdb
 >>>>>>> 19f6c6135032674d41e171dee0d9079f4f574e9a
+<<<<<<< HEAD
+>>>>>>> ff7b3f03eb123e9bed195f505da0a6508aff4c74
+=======
 >>>>>>> ff7b3f03eb123e9bed195f505da0a6508aff4c74

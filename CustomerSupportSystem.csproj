@@ -93,8 +93,13 @@
       <DependentUpon>FormTickets.cs</DependentUpon>
     </EmbeddedResource>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <EmbeddedResource Include="Manoj\Chat.resx">
       <DependentUpon>Chat.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="livechat\livechatt.resx">
+      <DependentUpon>livechatt.cs</DependentUpon>
+>>>>>>> ff7b3f03eb123e9bed195f505da0a6508aff4c74
 =======
     <EmbeddedResource Include="livechat\livechatt.resx">
       <DependentUpon>livechatt.cs</DependentUpon>
