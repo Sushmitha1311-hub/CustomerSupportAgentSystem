@@ -56,3 +56,4 @@ C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSyste
 C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe
 C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.pdb
 >>>>>>> origin/Shashank
+D:\VS2022 Projects\Servlens Projects\TarunKumar\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.livechat.livechatt.resources

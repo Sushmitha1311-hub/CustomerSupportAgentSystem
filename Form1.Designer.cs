@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea4 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend4 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
@@ -82,19 +82,19 @@
             this.panel1.Controls.Add(this.btnLiveCall);
             this.panel1.Controls.Add(this.btnDashboard);
             this.panel1.Location = new System.Drawing.Point(0, 2);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(284, 958);
+            this.panel1.Size = new System.Drawing.Size(320, 1198);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // pictureBox6
             // 
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
-            this.pictureBox6.Location = new System.Drawing.Point(223, 416);
-            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox6.Location = new System.Drawing.Point(24, 520);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(40, 37);
+            this.pictureBox6.Size = new System.Drawing.Size(45, 46);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox6.TabIndex = 14;
             this.pictureBox6.TabStop = false;
@@ -102,20 +102,20 @@
             // pictureBox5
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-            this.pictureBox5.Location = new System.Drawing.Point(32, 357);
-            this.pictureBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox5.Location = new System.Drawing.Point(25, 446);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(39, 36);
+            this.pictureBox5.Size = new System.Drawing.Size(44, 45);
             this.pictureBox5.TabIndex = 13;
             this.pictureBox5.TabStop = false;
             // 
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(35, 295);
-            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox4.Location = new System.Drawing.Point(39, 369);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(37, 37);
+            this.pictureBox4.Size = new System.Drawing.Size(42, 46);
             this.pictureBox4.TabIndex = 12;
             this.pictureBox4.TabStop = false;
             this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
@@ -123,10 +123,10 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(33, 239);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox3.Location = new System.Drawing.Point(37, 299);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(36, 34);
+            this.pictureBox3.Size = new System.Drawing.Size(40, 42);
             this.pictureBox3.TabIndex = 11;
             this.pictureBox3.TabStop = false;
             // 
@@ -134,10 +134,10 @@
             // 
             this.pictureBox2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(32, 182);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox2.Location = new System.Drawing.Point(36, 228);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(35, 38);
+            this.pictureBox2.Size = new System.Drawing.Size(39, 48);
             this.pictureBox2.TabIndex = 10;
             this.pictureBox2.TabStop = false;
             this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
@@ -146,20 +146,20 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(116, 26);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Location = new System.Drawing.Point(106, 45);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(41, 36);
+            this.pictureBox1.Size = new System.Drawing.Size(46, 45);
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
             // 
             // btnSettings
             // 
             this.btnSettings.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSettings.Location = new System.Drawing.Point(35, 416);
-            this.btnSettings.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSettings.Location = new System.Drawing.Point(77, 520);
+            this.btnSettings.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnSettings.Name = "btnSettings";
-            this.btnSettings.Size = new System.Drawing.Size(191, 37);
+            this.btnSettings.Size = new System.Drawing.Size(177, 46);
             this.btnSettings.TabIndex = 4;
             this.btnSettings.Text = "settings";
             this.btnSettings.UseVisualStyleBackColor = true;
@@ -168,10 +168,10 @@
             // btnTicket
             // 
             this.btnTicket.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTicket.Location = new System.Drawing.Point(32, 357);
-            this.btnTicket.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnTicket.Location = new System.Drawing.Point(36, 446);
+            this.btnTicket.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnTicket.Name = "btnTicket";
-            this.btnTicket.Size = new System.Drawing.Size(191, 36);
+            this.btnTicket.Size = new System.Drawing.Size(215, 45);
             this.btnTicket.TabIndex = 3;
             this.btnTicket.Text = "Tickets";
             this.btnTicket.UseVisualStyleBackColor = true;
@@ -180,10 +180,10 @@
             // btnLivechat
             // 
             this.btnLivechat.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLivechat.Location = new System.Drawing.Point(33, 295);
-            this.btnLivechat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLivechat.Location = new System.Drawing.Point(37, 369);
+            this.btnLivechat.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnLivechat.Name = "btnLivechat";
-            this.btnLivechat.Size = new System.Drawing.Size(191, 37);
+            this.btnLivechat.Size = new System.Drawing.Size(215, 46);
             this.btnLivechat.TabIndex = 2;
             this.btnLivechat.Text = "LiveChat";
             this.btnLivechat.UseVisualStyleBackColor = true;
@@ -192,10 +192,10 @@
             // btnLiveCall
             // 
             this.btnLiveCall.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLiveCall.Location = new System.Drawing.Point(33, 236);
-            this.btnLiveCall.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLiveCall.Location = new System.Drawing.Point(37, 295);
+            this.btnLiveCall.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnLiveCall.Name = "btnLiveCall";
-            this.btnLiveCall.Size = new System.Drawing.Size(189, 37);
+            this.btnLiveCall.Size = new System.Drawing.Size(213, 46);
             this.btnLiveCall.TabIndex = 1;
             this.btnLiveCall.Text = "LiveCall";
             this.btnLiveCall.UseVisualStyleBackColor = true;
@@ -204,10 +204,10 @@
             // btnDashboard
             // 
             this.btnDashboard.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDashboard.Location = new System.Drawing.Point(33, 182);
-            this.btnDashboard.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnDashboard.Location = new System.Drawing.Point(37, 228);
+            this.btnDashboard.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnDashboard.Name = "btnDashboard";
-            this.btnDashboard.Size = new System.Drawing.Size(189, 38);
+            this.btnDashboard.Size = new System.Drawing.Size(213, 48);
             this.btnDashboard.TabIndex = 0;
             this.btnDashboard.Text = "Dashboard";
             this.btnDashboard.UseVisualStyleBackColor = true;
@@ -219,19 +219,20 @@
             this.panelmain.Controls.Add(this.panel3);
             this.panelmain.Controls.Add(this.chart1);
             this.panelmain.Controls.Add(this.label1);
-            this.panelmain.Location = new System.Drawing.Point(291, 2);
+            this.panelmain.Location = new System.Drawing.Point(327, 2);
+            this.panelmain.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.panelmain.Name = "panelmain";
-            this.panelmain.Size = new System.Drawing.Size(1142, 902);
+            this.panelmain.Size = new System.Drawing.Size(1285, 1128);
             this.panelmain.TabIndex = 1;
             // 
             // panel4
             // 
             this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel4.Controls.Add(this.lblPendingTickets);
-            this.panel4.Location = new System.Drawing.Point(739, 112);
-            this.panel4.Margin = new System.Windows.Forms.Padding(4);
+            this.panel4.Location = new System.Drawing.Point(831, 140);
+            this.panel4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(217, 139);
+            this.panel4.Size = new System.Drawing.Size(244, 173);
             this.panel4.TabIndex = 9;
             // 
             // lblPendingTickets
@@ -239,10 +240,10 @@
             this.lblPendingTickets.AutoSize = true;
             this.lblPendingTickets.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPendingTickets.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.lblPendingTickets.Location = new System.Drawing.Point(4, 17);
+            this.lblPendingTickets.Location = new System.Drawing.Point(4, 21);
             this.lblPendingTickets.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblPendingTickets.Name = "lblPendingTickets";
-            this.lblPendingTickets.Size = new System.Drawing.Size(145, 24);
+            this.lblPendingTickets.Size = new System.Drawing.Size(172, 27);
             this.lblPendingTickets.TabIndex = 0;
             this.lblPendingTickets.Text = "Pending Tickets";
             // 
@@ -250,20 +251,20 @@
             // 
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel2.Controls.Add(this.lblAlltickets);
-            this.panel2.Location = new System.Drawing.Point(79, 112);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4);
+            this.panel2.Location = new System.Drawing.Point(89, 140);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(198, 139);
+            this.panel2.Size = new System.Drawing.Size(222, 173);
             this.panel2.TabIndex = 7;
             // 
             // lblAlltickets
             // 
             this.lblAlltickets.AutoSize = true;
             this.lblAlltickets.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblAlltickets.Location = new System.Drawing.Point(16, 21);
+            this.lblAlltickets.Location = new System.Drawing.Point(18, 26);
             this.lblAlltickets.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblAlltickets.Name = "lblAlltickets";
-            this.lblAlltickets.Size = new System.Drawing.Size(98, 24);
+            this.lblAlltickets.Size = new System.Drawing.Size(116, 27);
             this.lblAlltickets.TabIndex = 0;
             this.lblAlltickets.Text = "All Tickets";
             // 
@@ -271,38 +272,38 @@
             // 
             this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel3.Controls.Add(this.lblcompletedTiclets);
-            this.panel3.Location = new System.Drawing.Point(397, 112);
-            this.panel3.Margin = new System.Windows.Forms.Padding(4);
+            this.panel3.Location = new System.Drawing.Point(447, 140);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(221, 139);
+            this.panel3.Size = new System.Drawing.Size(248, 173);
             this.panel3.TabIndex = 8;
             // 
             // lblcompletedTiclets
             // 
             this.lblcompletedTiclets.AutoSize = true;
             this.lblcompletedTiclets.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblcompletedTiclets.Location = new System.Drawing.Point(4, 17);
+            this.lblcompletedTiclets.Location = new System.Drawing.Point(4, 21);
             this.lblcompletedTiclets.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblcompletedTiclets.Name = "lblcompletedTiclets";
-            this.lblcompletedTiclets.Size = new System.Drawing.Size(168, 24);
+            this.lblcompletedTiclets.Size = new System.Drawing.Size(199, 27);
             this.lblcompletedTiclets.TabIndex = 0;
             this.lblcompletedTiclets.Text = "Completed Tickets";
             // 
             // chart1
             // 
             this.chart1.BackColor = System.Drawing.Color.Gainsboro;
-            chartArea4.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea4);
-            legend4.Name = "Legend1";
-            this.chart1.Legends.Add(legend4);
-            this.chart1.Location = new System.Drawing.Point(161, 326);
-            this.chart1.Margin = new System.Windows.Forms.Padding(4);
+            chartArea2.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea2);
+            legend2.Name = "Legend1";
+            this.chart1.Legends.Add(legend2);
+            this.chart1.Location = new System.Drawing.Point(181, 408);
+            this.chart1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.chart1.Name = "chart1";
-            series4.ChartArea = "ChartArea1";
-            series4.Legend = "Legend1";
-            series4.Name = "Series1";
-            this.chart1.Series.Add(series4);
-            this.chart1.Size = new System.Drawing.Size(681, 256);
+            series2.ChartArea = "ChartArea1";
+            series2.Legend = "Legend1";
+            series2.Name = "Series1";
+            this.chart1.Series.Add(series2);
+            this.chart1.Size = new System.Drawing.Size(766, 320);
             this.chart1.TabIndex = 10;
             this.chart1.Text = "chart1";
             // 
@@ -310,21 +311,21 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(91, 56);
+            this.label1.Location = new System.Drawing.Point(102, 70);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(175, 27);
+            this.label1.Size = new System.Drawing.Size(209, 31);
             this.label1.TabIndex = 6;
             this.label1.Text = "DashBoard User";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1392, 798);
+            this.ClientSize = new System.Drawing.Size(1566, 998);
             this.Controls.Add(this.panelmain);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
