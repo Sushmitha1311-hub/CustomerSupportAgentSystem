@@ -11,6 +11,7 @@ C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportS
 C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.exe.config
 C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.FormSetting.resources
 C:\Users\HP 745 G6\source\repos\CustomerSupportSystem\obj\Debug\CustomerSupportSystem.FormTickets.resources
+<<<<<<< HEAD
 C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.exe.config
 C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.exe
 C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.pdb
@@ -24,4 +25,37 @@ C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\Cust
 C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.CoreCompileInputs.cache
 C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe
 C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.pdb
+<<<<<<< HEAD
 C:\Users\hello\Desktop\CustomerService\CustomerSupportAgentSystem\obj\Debug\ChatDashboard.Chat.resources
+=======
+=======
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.exe.config
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.exe
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.pdb
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.AssemblyReference.cache
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe.config
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.Form1.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.FormSetting.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.FormTickets.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.Properties.Resources.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.GenerateResource.cache
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.CoreCompileInputs.cache
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.pdb
+C:\Users\Shashank30\OneDrive\Desktop\Codes\new customer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.livechat.livechatt.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.exe.config
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.exe
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.pdb
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.AssemblyReference.cache
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe.config
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.Form1.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.FormSetting.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.FormTickets.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.livechat.livechatt.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.Properties.Resources.resources
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.GenerateResource.cache
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.CoreCompileInputs.cache
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe
+C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.pdb
+>>>>>>> 19f6c6135032674d41e171dee0d9079f4f574e9a
+>>>>>>> ff7b3f03eb123e9bed195f505da0a6508aff4c74
