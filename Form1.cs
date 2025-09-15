@@ -35,6 +35,7 @@ namespace CustomerSupportSystem
 
         private void btnLiveCall_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
 
             //panelmain.Controls.Clear();
 
@@ -47,6 +48,20 @@ namespace CustomerSupportSystem
             //liveCallsPage.Show();
             livechatt Chat = new livechatt();
             Chat.Show();
+=======
+            livechatt Chat = new livechatt();
+            Chat.Show();
+            //panelmain.Controls.Clear();
+
+            //livechat.livechatt liveCallsPage = new livechat.livechatt();
+            //liveCallsPage.TopLevel = false;
+            //liveCallsPage.FormBorderStyle = FormBorderStyle.None;
+            //liveCallsPage.Dock = DockStyle.Fill;
+
+            //panelmain.Controls.Add(liveCallsPage);
+            //liveCallsPage.Show();
+
+>>>>>>> c980b92c3f92cd4b463662ec3dcce8dd3e25ec8b
         }
 
         
