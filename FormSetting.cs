@@ -27,20 +27,18 @@ namespace CustomerSupportSystem
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
            
-            // Theme options
             cmbTheme.Items.Clear();
             cmbTheme.Items.Add("Light");
             cmbTheme.Items.Add("Dark");
             cmbTheme.Items.Add("System Default");
 
-            // Font size options
+            
             cmbFontSize.Items.Clear();
             cmbFontSize.Items.Add("Small");
             cmbFontSize.Items.Add("Medium");
             cmbFontSize.Items.Add("Large");
             cmbFontSize.Items.Add("Extra Large");
 
-            // Optionally set default selected value
             cmbTheme.SelectedIndex = 0;
             cmbFontSize.SelectedIndex = 1;
         }
@@ -68,6 +66,11 @@ namespace CustomerSupportSystem
         }
 
         private void cmbFontSize_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FormSetting_Load(object sender, EventArgs e)
         {
 
         }

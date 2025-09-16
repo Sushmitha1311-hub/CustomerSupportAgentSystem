@@ -6,14 +6,13 @@ namespace CustomerSupportSystem.Tarun
 {
     public partial class LoginForm : Form
     {
-        // Hardcoded credentials (for demo, no DB)
         private string validEmail = "admin@gmail.com";
         private string validPassword = "Admin@123";
 
         public LoginForm()
         {
             InitializeComponent();
-            btnLogin.Click += BtnLogin_Click; // Attach event handler
+            btnLogin.Click += BtnLogin_Click; 
         }
 
         private void LoginForm_Load(object sender, EventArgs e)
@@ -26,6 +25,17 @@ namespace CustomerSupportSystem.Tarun
             string email = txtEmail.Text.Trim();
             string password = txtPassword.Text.Trim();
 
+            if (string.IsNullOrEmpty(email))
+            {
+                MessageBox.Show(" Please enter your email address.",
+                                "Missing Email",
+                                MessageBoxButtons.OK,
+                                MessageBoxIcon.Warning);
+                txtEmail.Focus();
+                return;
+            }
+
+
             // Validate Email Format
             if (!email.EndsWith("@gmail.com", StringComparison.OrdinalIgnoreCase))
             {
@@ -36,38 +46,40 @@ namespace CustomerSupportSystem.Tarun
                 return;
             }
 
-            // Validate Password Format
-            if (!IsValidPassword(password))
+           
+            if (string.IsNullOrEmpty(password))
             {
-                MessageBox.Show("Password must contain at least:\n" +
-                                "• One uppercase letter\n" +
-                                "• One lowercase letter\n" +
-                                "• One number\n" +
-                                "• One special character",
-                                "Invalid Password",
+                MessageBox.Show(" Please enter your password.",
+                                "Missing Password",
                                 MessageBoxButtons.OK,
-                                MessageBoxIcon.Error);
+                                MessageBoxIcon.Warning);
+                txtPassword.Focus();
                 return;
             }
-
-            // ✅ Check Against Hardcoded Credentials
-            if (email == validEmail && password == validPassword)
+           
+            if (email.Equals(validEmail, StringComparison.OrdinalIgnoreCase) &&
+                password == validPassword)
             {
-                // Hide login and open MainForm
+                MessageBox.Show(" Login Successful! Welcome Admin.",
+                                "Success",
+                                MessageBoxButtons.OK,
+                                MessageBoxIcon.Information);
+
                 this.Hide();
-                Form1 Form1 = new Form1();
-                Form1.Show();
+                Form1 dashboard = new Form1();
+                dashboard.Show();
             }
             else
             {
-                MessageBox.Show("❌ Invalid credentials. Try again.",
+                MessageBox.Show(" Incorrect email or password. Please try again.",
                                 "Login Failed",
                                 MessageBoxButtons.OK,
                                 MessageBoxIcon.Error);
             }
         }
+        
 
-        // Helper method to validate password
+
         private bool IsValidPassword(string password)
         {
             var regex = new Regex(@"^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[@$!%*?&]).{6,}$");

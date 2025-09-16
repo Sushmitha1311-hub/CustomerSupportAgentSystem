@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ChatDashboard;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -49,18 +50,33 @@ namespace CustomerSupportSystem
         
         private void btnLivechat_Click(object sender, EventArgs e)
         {
+            panelmain.Controls.Clear();
 
-            MessageBox.Show("Live Chat page will open here.");
+            Chat chatPage = new Chat();
+            chatPage.TopLevel = false;
+            chatPage.FormBorderStyle = FormBorderStyle.None;
+            chatPage.Dock = DockStyle.Fill;
+
+            panelmain.Controls.Add(chatPage);
+            chatPage.Show();
+
+
         }
 
         private void btnTicket_Click(object sender, EventArgs e)
         {
-            using (FormTickets ticketsForm = new FormTickets())
-            {
-                ticketsForm.ShowDialog();
-            }
+            panelmain.Controls.Clear();
+
+            FormTickets ticketPage = new FormTickets();
+            ticketPage.TopLevel = false;
+            ticketPage.FormBorderStyle = FormBorderStyle.None;
+            ticketPage.Dock = DockStyle.Fill;
+
+            panelmain.Controls.Add(ticketPage);
+            ticketPage.Show();
+
         }
-        
+
 
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {
@@ -81,9 +97,34 @@ namespace CustomerSupportSystem
         private void btnSettings_Click(object sender, EventArgs e)
         {
 
-            FormSetting settingsForm = new FormSetting();
-            settingsForm.ShowDialog(); 
+            panelmain.Controls.Clear();
+
+            FormSetting settingsPage = new FormSetting();
+            settingsPage.TopLevel = false;
+            settingsPage.FormBorderStyle = FormBorderStyle.None;
+            settingsPage.Dock = DockStyle.Fill;
+
+            panelmain.Controls.Add(settingsPage);
+            settingsPage.Show();
         }
+
+        private void btnDashboard_Click(object sender, EventArgs e)
+        {
+            panelmain.Controls.Clear();
+            Form1 dashboardPage = new Form1();
+            dashboardPage.TopLevel = false;
+            dashboardPage.FormBorderStyle = FormBorderStyle.None;
+            dashboardPage.Dock = DockStyle.Fill;
+            panelmain.Controls.Add(dashboardPage);
+            dashboardPage.Show();
+        }
+
+        private void panelmain_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
     }
 }
+
 

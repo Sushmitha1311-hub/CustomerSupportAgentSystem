@@ -265,6 +265,7 @@
             this.Controls.Add(this.lblSettings);
             this.Name = "FormSetting";
             this.Text = "FormSetting";
+            this.Load += new System.EventHandler(this.FormSetting_Load);
             this.grpProfilesetting.ResumeLayout(false);
             this.grpProfilesetting.PerformLayout();
             this.Notify.ResumeLayout(false);
