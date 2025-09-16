@@ -56,6 +56,7 @@ C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSyste
 C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe
 C:\Users\Shashank30\OneDrive\Desktop\Codes\newcustomer\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.pdb
 >>>>>>> origin/Shashank
+<<<<<<< HEAD
 C:\Users\HP 745 G6\Source\Repos\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.csproj.AssemblyReference.cache
 C:\Users\HP 745 G6\Source\Repos\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.exe.config
 C:\Users\HP 745 G6\Source\Repos\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.Form1.resources
@@ -72,3 +73,6 @@ C:\Users\HP 745 G6\Source\Repos\CustomerSupportAgentSystem\bin\Debug\CustomerSup
 C:\Users\HP 745 G6\Source\Repos\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.exe
 C:\Users\HP 745 G6\Source\Repos\CustomerSupportAgentSystem\bin\Debug\CustomerSupportSystem.pdb
 C:\Users\HP 745 G6\Source\Repos\CustomerSupportAgentSystem\obj\Debug\ChatDashboard.Chat.resources
+=======
+D:\VS2022 Projects\Servlens Projects\TarunKumar\CustomerSupportAgentSystem\obj\Debug\CustomerSupportSystem.livechat.livechatt.resources
+>>>>>>> a73c1346ba179ad7426bbf6346b23fdadde7506d

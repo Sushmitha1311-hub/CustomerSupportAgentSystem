@@ -86,7 +86,6 @@
     </Compile>
     <Compile Include="Tarun\.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
-      <SubType>Form</SubType>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

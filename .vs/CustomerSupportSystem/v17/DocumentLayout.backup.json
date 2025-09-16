@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|c:\\users\\hp 745 g6\\source\\repos\\customersupportagentsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\tarun\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:tarun\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +19,12 @@
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:tarun\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|c:\\users\\hp 745 g6\\source\\repos\\customersupportagentsystem\\formsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\formsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:formsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\formsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:formsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|c:\\users\\hp 745 g6\\source\\repos\\customersupportagentsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\tarun\\.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:tarun\\.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\livechat\\livechatt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:livechat\\livechatt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,7 +47,7 @@
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:livechat\\livechatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|c:\\users\\hp 745 g6\\source\\repos\\customersupportagentsystem\\manojfile\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\manojfile\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:manojfile\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -61,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\formtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:formtickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\resources\\customer_1688401.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:resources\\customer_1688401.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\tarun\\.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|solutionrelative:tarun\\.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{599B77F3-CA91-4C97-83E9-8C9DC487E035}|CustomerSupportSystem.csproj|C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\livechat\\livechatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -109,58 +97,46 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FormSetting.cs",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormSetting.cs",
               "RelativeDocumentMoniker": "FormSetting.cs",
-              "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormSetting.cs*",
-              "RelativeToolTip": "FormSetting.cs*",
+              "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormSetting.cs",
+              "RelativeToolTip": "FormSetting.cs",
               "ViewState": "AgIAABkAAAAAAAAAAIAwwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T09:45:28.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T09:45:28.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormSetting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormSetting.cs",
+              "RelativeDocumentMoniker": "FormSetting.cs",
+              "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormSetting.cs [Design]",
+              "RelativeToolTip": "FormSetting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:55:45.087Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FormSetting.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormSetting.cs",
-              "RelativeDocumentMoniker": "FormSetting.cs",
-              "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormSetting.cs [Design]*",
-              "RelativeToolTip": "FormSetting.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T06:55:45.087Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T05:10:52.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Tarun\\LoginForm.cs",
               "RelativeDocumentMoniker": "Tarun\\LoginForm.cs",
               "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Tarun\\LoginForm.cs [Design]",
               "RelativeToolTip": "Tarun\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T04:14:01.223Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-15T04:14:01.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Tarun\\LoginForm.cs",
               "RelativeDocumentMoniker": "Tarun\\LoginForm.cs",
@@ -168,12 +144,11 @@
               "RelativeToolTip": "Tarun\\LoginForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T09:52:32.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T09:52:32.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -185,16 +160,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAewCUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T05:54:01.059Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T05:10:52.407Z"
             },
             {
               "$type": "Document",
@@ -202,45 +189,27 @@
               "Title": "FormSetting.Designer.cs",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormSetting.Designer.cs",
               "RelativeDocumentMoniker": "FormSetting.Designer.cs",
-              "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormSetting.Designer.cs*",
-              "RelativeToolTip": "FormSetting.Designer.cs*",
+              "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormSetting.Designer.cs",
+              "RelativeToolTip": "FormSetting.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T04:25:23.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": ".Designer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Tarun\\.Designer.cs",
-              "RelativeDocumentMoniker": "Tarun\\.Designer.cs",
-              "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Tarun\\.Designer.cs [Design]",
-              "RelativeToolTip": "Tarun\\.Designer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T04:14:15.239Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-15T04:25:23.987Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\HP 745 G6\\Source\\Repos\\CustomerSupportAgentSystem\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\HP 745 G6\\Source\\Repos\\CustomerSupportAgentSystem\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:40:20.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2025-09-09T07:40:20.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "livechatt.Designer.cs",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\livechat\\livechatt.Designer.cs",
               "RelativeDocumentMoniker": "livechat\\livechatt.Designer.cs",
@@ -248,36 +217,33 @@
               "RelativeToolTip": "livechat\\livechatt.Designer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T05:03:49.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-12T05:03:49.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "livechatt.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\livechat\\livechatt.cs",
               "RelativeDocumentMoniker": "livechat\\livechatt.cs",
               "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\livechat\\livechatt.cs [Design]",
               "RelativeToolTip": "livechat\\livechatt.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T05:02:49.262Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-12T05:02:49.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Chat.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\ManojFile\\Chat.cs",
               "RelativeDocumentMoniker": "ManojFile\\Chat.cs",
               "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\ManojFile\\Chat.cs [Design]",
               "RelativeToolTip": "ManojFile\\Chat.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T09:12:00.172Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-16T09:12:00.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "FormTickets.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormTickets.cs",
               "RelativeDocumentMoniker": "FormTickets.cs",
@@ -288,20 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": ".Designer.cs",
-              "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Tarun\\.Designer.cs",
-              "RelativeDocumentMoniker": "Tarun\\.Designer.cs",
-              "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Tarun\\.Designer.cs",
-              "RelativeToolTip": "Tarun\\.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T04:14:26.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "FormTickets.cs",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormTickets.cs",
               "RelativeDocumentMoniker": "FormTickets.cs",
@@ -313,18 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "customer_1688401.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Resources\\customer_1688401.png",
-              "RelativeDocumentMoniker": "Resources\\customer_1688401.png",
-              "ToolTip": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Resources\\customer_1688401.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
-              "RelativeToolTip": "Resources\\customer_1688401.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-09-15T06:25:57.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "livechatt.cs",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\livechat\\livechatt.cs",
               "RelativeDocumentMoniker": "livechat\\livechatt.cs",
@@ -332,12 +274,11 @@
               "RelativeToolTip": "livechat\\livechatt.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T05:16:09.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-12T05:16:09.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "Form1.resx",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\Form1.resx",
               "RelativeDocumentMoniker": "Form1.resx",
@@ -348,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "FormTickets.resx",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormTickets.resx",
               "RelativeDocumentMoniker": "FormTickets.resx",
@@ -359,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "FormTickets.Designer.cs",
               "DocumentMoniker": "C:\\Users\\HP 745 G6\\source\\repos\\CustomerSupportAgentSystem\\FormTickets.Designer.cs",
               "RelativeDocumentMoniker": "FormTickets.Designer.cs",
