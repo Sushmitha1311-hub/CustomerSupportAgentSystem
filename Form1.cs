@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 ﻿using ChatDashboard;
-=======
 ﻿using CustomerSupportSystem.livechat;
->>>>>>> a73c1346ba179ad7426bbf6346b23fdadde7506d
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -39,33 +37,12 @@ namespace CustomerSupportSystem
 
         private void btnLiveCall_Click(object sender, EventArgs e)
         {
-<<<<<<< HEAD
-
-            //panelmain.Controls.Clear();
-
-            //livechat.livechatt liveCallsPage = new livechat.livechatt();
-            //liveCallsPage.TopLevel = false;
-            //liveCallsPage.FormBorderStyle = FormBorderStyle.None;
-            //liveCallsPage.Dock = DockStyle.Fill;
-
-            //panelmain.Controls.Add(liveCallsPage);
-            //liveCallsPage.Show();
             livechatt Chat = new livechatt();
             Chat.Show();
-=======
-            livechatt Chat = new livechatt();
-            Chat.Show();
-            //panelmain.Controls.Clear();
 
-            //livechat.livechatt liveCallsPage = new livechat.livechatt();
-            //liveCallsPage.TopLevel = false;
-            //liveCallsPage.FormBorderStyle = FormBorderStyle.None;
-            //liveCallsPage.Dock = DockStyle.Fill;
+           
 
-            //panelmain.Controls.Add(liveCallsPage);
-            //liveCallsPage.Show();
 
->>>>>>> c980b92c3f92cd4b463662ec3dcce8dd3e25ec8b
         }
 
         
